@@ -1,25 +1,11 @@
-<html>
-    <head>
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
-        <link href="https://fonts.googleapis.com/css?family=Anaheim|Roboto+Slab:400,700" rel="stylesheet">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.css">
-
-        <title>enucs</title>
-        <link rel="stylesheet" href="css/main.css">
-    </head>
+<?php
+    $page = 'events';
+?>
+<html lang="en">
+    <?php include 'partials/head.php' ?>
     <body>
-        <div id="nav">
-            <ul>
-                <a href="/" class="active"><li>events</li></a>
-                <a href="/society.html"><li>society</li></a>
-                <li class="logo">
-                    <span class="logo dark">{<span class="enu">enu</span><span class="cs">cs</span>}</span>
-                </li>
-                <a href="/sponsors.html"><li>sponsors</li></a>
-                <a href="/join.html"><li>join us</li></a>
-            </ul>
-        </div>
-        <div id="content">
+        <?php include 'partials/nav.php' ?>
+        <div id="content" role="main">
             <div class="event">
                 <div class="date">01/01/18</div>
                 <div class="details">
@@ -57,27 +43,7 @@
                 <div class="cf"></div>
 
             </div>
-
         </div>
-        <div id="footer">
-            <div class="left">
-                Proudly sponsored by:
-                <div class="sponsors">
-                    <img src="http://via.placeholder.com/120x80">
-                    <img src="http://via.placeholder.com/120x80">
-                    <img src="http://via.placeholder.com/120x80">
-                    <img src="http://via.placeholder.com/120x80">
-                </div>
-            </div>
-            <div class="right">
-                <a href="#">contact@enucs.org.uk</a>
-                <a href="#">committee@enucs.org.uk</a>
-                <div class="social">
-                    <i class="fab fa-slack"></i>
-                    <i class="fab fa-facebook-square"></i>
-                    <i class="fab fa-twitter-square"></i>
-                </div>
-            </div>
-        </div>
+        <?php include 'partials/footer.php' ?>
     </body>
 </html>

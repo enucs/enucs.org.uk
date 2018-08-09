@@ -7,9 +7,13 @@
         list-style: none
         display: flex
         justify-content: space-around
-        a
-            color: $colour-font
+        li
             font-size: 28px
             align-self: center
-        li.logo
-            font-size: 80px
+            a
+                color: $colour-font
+                font-weight: 400
+                &.active
+                    color: $colour-primary-light
+            .logo
+                font-size: 80px
