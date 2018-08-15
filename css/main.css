@@ -1,15 +1,20 @@
 span.logo {
   font-family: "Anaheim", sans-serif;
   font-weight: 600;
-  color: #37474f; }
-  span.logo .enu, span.logo .cs {
-    vertical-align: text-top; }
-  span.logo .cs {
-    color: #c62828; }
-  span.logo.dark {
-    color: #ffffff; }
-    span.logo.dark .cs {
-      color: #ff5555; }
+  color: #37474f;
+}
+span.logo .enu, span.logo .cs {
+  vertical-align: text-top;
+}
+span.logo .cs {
+  color: #c62828;
+}
+span.logo.dark {
+  color: #ffffff;
+}
+span.logo.dark .cs {
+  color: #ff5555;
+}
 
 #nav ul {
   font-family: "Anaheim", sans-serif;
@@ -18,95 +23,130 @@ span.logo {
   margin: 0;
   list-style: none;
   display: flex;
-  justify-content: space-around; }
-  #nav ul li {
-    font-size: 28px;
-    align-self: center; }
-    #nav ul li a {
-      color: #ffffff;
-      font-weight: 400; }
-      #nav ul li a.active {
-        color: #ff5555; }
-    #nav ul li .logo {
-      font-size: 80px; }
+  justify-content: space-around;
+}
+#nav ul li {
+  font-size: 28px;
+  align-self: center;
+}
+#nav ul li a {
+  color: #ffffff;
+  font-weight: 400;
+}
+#nav ul li a.active {
+  color: #ff5555;
+}
+#nav ul li .logo {
+  font-size: 80px;
+}
 
 #content .event {
-  margin: 25px 0; }
-  #content .event .date {
-    width: 120px;
-    font-family: "Anaheim", sans-serif;
-    font-size: 34px;
-    text-align: right;
-    float: left;
-    margin-right: 20px; }
-  #content .event .details {
-    width: calc(100% - 140px);
-    float: right; }
-    #content .event .details h2 {
-      font-size: 34px;
-      margin: 0 0 10px 0; }
-    #content .event .details .info {
-      font-family: "Anaheim", sans-serif;
-      font-size: 16px; }
-      #content .event .details .info a {
-        color: #ffffff;
-        font-weight: 600; }
+  margin: 25px 0;
+}
+#content .event .date {
+  width: 120px;
+  font-family: "Anaheim", sans-serif;
+  font-size: 34px;
+  text-align: right;
+  float: left;
+  margin-right: 20px;
+}
+#content .event .details {
+  width: calc(100% - 140px);
+  float: right;
+}
+#content .event .details h2 {
+  font-size: 34px;
+  margin: 0 0 10px 0;
+}
+#content .event .details .info {
+  font-family: "Anaheim", sans-serif;
+  font-size: 16px;
+}
+#content .event .details .info a {
+  color: #ffffff;
+  font-weight: 600;
+}
 
 #footer {
   background-color: #37474f;
   height: 150px;
   padding: 20px;
   width: 100%;
-  box-sizing: border-box; }
-  #footer .left {
-    float: left;
-    width: calc(100% - 250px); }
-    #footer .left .sponsors {
-      margin-top: 10px; }
-  #footer .right {
-    float: right;
-    width: 200px;
-    padding: 15px;
-    text-align: right;
-    color: #c5c5c5; }
-    #footer .right a {
-      color: #c5c5c5;
-      margin-bottom: 4px; }
-    #footer .right .social {
-      font-size: 34px;
-      margin-top: 10px; }
+  box-sizing: border-box;
+}
+#footer .left {
+  float: left;
+  width: calc(100% - 250px);
+}
+#footer .left .sponsors {
+  margin-top: 10px;
+}
+#footer .right {
+  float: right;
+  width: 200px;
+  padding: 15px;
+  text-align: right;
+  color: #c5c5c5;
+}
+#footer .right a {
+  color: #c5c5c5;
+  margin-bottom: 4px;
+}
+#footer .right .social {
+  font-size: 34px;
+  margin-top: 10px;
+}
 
 body {
   font-family: "Roboto Slab", serif;
   background-color: #546e7a;
   color: #ffffff;
-  height: 100%; }
+  height: 100%;
+}
 
 h1, h2, h3 {
   font-family: "Anaheim", sans-serif;
   font-weight: 400;
-  margin: 0; }
+  margin: 0;
+}
 
 h2 {
-  margin-top: 30px; }
+  margin-top: 30px;
+}
 
 h3 {
-  margin-top: 15px; }
+  margin-top: 15px;
+}
 
 p {
   margin: 10px 0 0 0;
-  padding: 0; }
+  padding: 0;
+}
 
 a {
   text-decoration: none;
   color: #ffffff;
-  font-weight: bold; }
+  font-weight: bold;
+}
+
+code {
+  background: #37474f;
+  padding: 3px 8px;
+  border-radius: 5px;
+  display: inline-block;
+  margin: 5px;
+}
 
 #content {
   max-width: 800px;
   margin: 0 auto;
-  padding: 25px 0; }
+  padding: 25px 0;
+}
 
 .cf {
   clear: both;
-  width: 100%; }
+  width: 100%;
+}
+
+/*# sourceMappingURL=main.css.map */

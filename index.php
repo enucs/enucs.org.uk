@@ -1,49 +1,29 @@
 <?php
-    $page = 'events';
+    $page = 'coming soon';
 ?>
 <html lang="en">
     <?php include 'partials/head.php' ?>
     <body>
-        <?php include 'partials/nav.php' ?>
+        <style>
+        /* Inline CSS outside of the <head>. And what. */
+        h1 {
+            text-align: center;
+            font-size: 10em;
+            margin-top: 1em;
+        }
+        h2 {
+            text-align: center;
+            font-size: 2em;
+        }
+        p {
+            margin-top: 30px;
+            text-align: center;
+        }
+        </style>
         <div id="content" role="main">
-            <div class="event">
-                <div class="date">01/01/18</div>
-                <div class="details">
-                    <h2>Code Challenge</h2>
-                    <span class="info">Merchiston, A55 | <a href="#">Sign up</a></span>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                </div>
-                <div class="cf"></div>
-            </div>
-            <div class="event">
-                <div class="date">01/01/18</div>
-                <div class="details">
-                    <h2>Code Challenge</h2>
-                    <span class="info">Merchiston, A55 | <a href="#">Sign up</a></span>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                </div>
-                <div class="cf"></div>
-            </div>
-            <div class="event">
-                <div class="date">01/01/18</div>
-                <div class="details">
-                    <h2>Hardware Hack</h2>
-                    <span class="info">Merchiston, A55 | <a href="#">Sign up</a></span>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                </div>
-                <div class="cf"></div>
-            </div>
-            <div class="event">
-                <div class="date">01/01/18</div>
-                <div class="details">
-                    <h2>Interesting Event</h2>
-                    <span class="info">Merchiston, A55 | <a href="#">sign up</a></span>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                </div>
-                <div class="cf"></div>
-
-            </div>
+            <h1><span class="logo dark">{<span class="enu">enu</span><span class="cs">cs</span>}</span></h1>
+            <h2>We'll be back.</h2>
+            <p>In the meantime, if you need us pop an email to<br><code>contact@enucs.org.uk</code></p>
         </div>
-        <?php include 'partials/footer.php' ?>
     </body>
 </html>
