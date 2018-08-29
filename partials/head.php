@@ -7,9 +7,9 @@
     <link rel="shortcut icon" href="/icons/favicon.ico">
     <meta name="apple-mobile-web-app-title" content="ENUCS">
     <meta name="application-name" content="ENUCS">
-    <meta name="msapplication-TileColor" content="#00a300">
+    <meta name="msapplication-TileColor" content="#546e7a">
     <meta name="msapplication-config" content="/icons/browserconfig.xml">
-    <meta name="theme-color" content="#ffffff">
+    <meta name="theme-color" content="#37474f">
 
     <title>enucs | <?= $page ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1">

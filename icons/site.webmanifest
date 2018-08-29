@@ -1,6 +1,6 @@
 {
-    "name": "ENUCS",
-    "short_name": "ENUCS",
+    "name": "enucs",
+    "short_name": "enucs",
     "icons": [
         {
             "src": "/icons/android-chrome-192x192.png",
@@ -13,7 +13,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
+    "theme_color": "#37474f",
+    "background_color": "#37474f",
     "display": "standalone"
 }
