@@ -89,10 +89,14 @@ span.logo.dark .cs {
 #footer {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   background-color: #37474f;
   padding: 20px;
   width: 100%;
   box-sizing: border-box;
+}
+#footer .sponsors {
+  font-family: "Anaheim", sans-serif;
 }
 #footer .sponsors div {
   margin-top: 10px;
