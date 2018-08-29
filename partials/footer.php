@@ -9,12 +9,11 @@
         </div>
     </div>
     <div class="social">
-        <a href="#">contact@enucs.org.uk</a>
-        <a href="#">committee@enucs.org.uk</a>
-        <div class="social">
-            <i class="fab fa-slack"></i>
-            <i class="fab fa-facebook-square"></i>
-            <i class="fab fa-twitter-square"></i>
+        <a href="mailto:contact@enucs.org.uk">contact@enucs.org.uk</a>
+        <div class="icons">
+            <a href="https://enucs.slack.com" target="_blank"><i class="fab fa-slack"></i></a>
+            <a href="https://facebook.com/enucs" target="_blank"><i class="fab fa-facebook-square"></i></a>
+            <a href="https://twitter.com/enucs" target="_blank"><i class="fab fa-twitter-square"></i></a>
         </div>
     </div>
 </div>
