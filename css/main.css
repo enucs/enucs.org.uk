@@ -39,6 +39,24 @@ span.logo.dark .cs {
 #nav ul li .logo {
   font-size: 80px;
 }
+#nav ul #hamburger {
+  display: none;
+  cursor: pointer;
+  margin-right: 25px;
+}
+#nav #mobile {
+  display: none;
+  text-align: center;
+  padding: 0;
+}
+#nav #mobile li {
+  border-top: #546e7a 5px solid;
+  display: flex;
+}
+#nav #mobile li a {
+  width: 100%;
+  padding: 10px;
+}
 
 #content .event {
   margin: 25px 0;
@@ -98,6 +116,27 @@ span.logo.dark .cs {
   margin-top: 10px;
 }
 
+@media screen and (max-width: 800px) {
+  #nav #desktop {
+    justify-content: space-between;
+  }
+  #nav #desktop li:not(.logo) {
+    display: none;
+  }
+  #nav #desktop li.logo {
+    margin-left: 25px;
+  }
+  #nav #desktop #hamburger {
+    display: block !important;
+  }
+  #nav .enabled {
+    display: block !important;
+  }
+
+  #footer .left {
+    display: none;
+  }
+}
 body {
   font-family: "Roboto Slab", serif;
   background-color: #546e7a;
@@ -141,7 +180,7 @@ code {
 #content {
   max-width: 800px;
   margin: 0 auto;
-  padding: 25px 0;
+  padding: 25px;
 }
 
 .cf {

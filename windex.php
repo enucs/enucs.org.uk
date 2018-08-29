@@ -45,5 +45,6 @@
             </div>
         </div>
         <?php include 'partials/footer.php' ?>
+        <?php include 'partials/scripts.php' ?>
     </body>
 </html>
