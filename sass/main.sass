@@ -3,7 +3,10 @@ body
     font-family: $body-font
     background-color: $colour-dark
     color: $colour-font
-    height: 100%
+
+    display: flex
+    min-height: 100vh
+    flex-direction: column
 
 
 h1, h2, h3
@@ -31,6 +34,7 @@ code
     margin: 5px
 
 #content
+    flex: 1
     max-width: 800px
     margin: 0 auto
     padding: 25px
