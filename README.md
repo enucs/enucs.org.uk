@@ -1,6 +1,6 @@
 # enucs.org.uk
 
-This is the code that'll soon be behind enucs.org.uk. It's not overly complicated, and lives here so we can pull it onto our server as and when we update it.
+This is the code that's behind our website, enucs.org.uk. It's not overly complicated, and lives here so we can pull it onto our server as and when we update it.
 
 ## Running your own instance
 

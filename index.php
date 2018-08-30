@@ -19,6 +19,9 @@
             margin-top: 30px;
             text-align: center;
         }
+        #content {
+            max-width: none;
+        }
         </style>
         <div id="content" role="main">
             <h1><span class="logo dark">{<span class="enu">enu</span><span class="cs">cs</span>}</span></h1>
