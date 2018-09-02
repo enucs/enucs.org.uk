@@ -2,10 +2,7 @@
     <div class="sponsors">
         Proudly sponsored by:
         <div>
-            <img src="/assets/images/blackrock.png" alt="logo">
-            <img src="http://via.placeholder.com/120x80" alt="logo">
-            <img src="http://via.placeholder.com/120x80" alt="logo">
-            <img src="http://via.placeholder.com/120x80" alt="logo">
+            <a href="https://blackrock.com" target="_blank"><img src="/assets/images/blackrock.png" alt="logo"></a>
         </div>
     </div>
     <div class="social">

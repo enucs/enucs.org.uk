@@ -101,6 +101,9 @@ span.logo.dark .cs {
 #footer .sponsors div {
   margin-top: 10px;
 }
+#footer .sponsors div img {
+  height: 30px;
+}
 #footer .social {
   text-align: right;
   color: #c5c5c5;
@@ -202,6 +205,13 @@ code {
 .cf {
   clear: both;
   width: 100%;
+}
+
+.sponsor {
+  margin-top: 20px;
+}
+.sponsor img {
+  height: 40px;
 }
 
 /*# sourceMappingURL=main.css.map */
