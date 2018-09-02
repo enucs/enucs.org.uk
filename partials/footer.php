@@ -2,7 +2,7 @@
     <div class="sponsors">
         Proudly sponsored by:
         <div>
-            <img src="http://via.placeholder.com/120x80" alt="logo">
+            <img src="/assets/images/blackrock.png" alt="logo">
             <img src="http://via.placeholder.com/120x80" alt="logo">
             <img src="http://via.placeholder.com/120x80" alt="logo">
             <img src="http://via.placeholder.com/120x80" alt="logo">
