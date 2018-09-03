@@ -6,7 +6,7 @@
     <body>
         <?php include 'partials/nav.php' ?>
         <div id="content" role="main">
-            <p>Our sponsors provide a key role in the society and allow us to offer a range of exciting events. If you're interested in sponsoring the society, we'd love to havev you onboard. Just send an email to <a href="mailto:treasurer@enucs.org.uk">treasurer@enucs.org.uk</a>.</p>
+            <p>Our sponsors provide a key role in the society and allow us to offer a range of exciting events. If you're interested in sponsoring the society, we'd love to have you onboard. Just send an email to <a href="mailto:treasurer@enucs.org.uk">treasurer@enucs.org.uk</a>.</p>
             <hr>
             <div class="sponsor">
                 <a href="https://blackrock.com" target="_blank"><img src="/assets/images/blackrock.png" alt="logo"></a>
