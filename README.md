@@ -8,7 +8,7 @@ I don't know why you'd want to run this for yourself, it's just a website, but i
 
 Note that the nav probably won't work with a local instance, as on the server we strip the `.php` extension
 
-Compile sass with `sass --watch assets/sass/main.sass:assets/css/main.css`.
+Compile sass with `sass --watch assets/sass/main.sass:assets/css/main.css --style compressed`.
 
 ## License
 
