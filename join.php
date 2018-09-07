@@ -6,7 +6,7 @@
     <body>
         <?php include 'partials/nav.php' ?>
         <div id="content" role="main">
-            <p>We'd love to have you join us. The quickest way to do so is through the <a href="#">ENSA website</a></p>
+            <p>We'd love to have you join us. The easiest way to do so is through the <a href="https://www.napierstudents.com/organisation/societies/7541/">ENSA website</a></p>
             <p>Joining the society comes with so. many. perks:</p>
             <ul>
                 <li>
