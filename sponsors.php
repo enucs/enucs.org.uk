@@ -10,15 +10,11 @@
             <hr>
             <div class="sponsor">
                 <a href="https://blackrock.com" target="_blank"><img src="/assets/images/blackrock.png" alt="logo"></a>
-                <p>BlackRock are a major player in the fintech sector, helping investors build better financial futures. They offer a range of careers in the industry, from big-data analysis to web development.</p>
+                <p><b>BlackRock is one of the world’s largest FinTech firms.</b></p>
+                <p>Since our inception in 1988, we’ve grown from an entrepreneurial start-up into the world’s largest investment manager, with more than $6 trillion of assets under management, by putting technology and continuous innovation at the heart of our business.</p>
+                <p>But technology without people is nothing; we seek to preserve a firm culture that encourages our technology professionals to continue stretching the boundaries of what’s possible.</p>
+                <p>We offer a range of roles from Software Engineering to Prod Ops to Analytics, across a range of programmes including Summer Analyst, Placement and Analyst Programme.</p>
             </div>
-            <hr>
-            <div class="sponsor">
-                <a href="#" target="_blank"><img src="https://via.placeholder.com/350x50" alt="logo"></a>
-                <p>Dummy Sponsor Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-            </div>
-            <hr>
-
         </div>
         <?php include 'partials/footer.php' ?>
         <?php include 'partials/scripts.php' ?>
