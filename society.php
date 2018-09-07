@@ -18,7 +18,7 @@
 
             <h2>The Committee</h2>
             <h3>Toby Cook | President | tobycook@enucs.org.uk</h3>
-            <h3>Filip Cosarca | Seceratary | filipcosarca@enucs.org.uk</h3>
+            <h3>Max Leonhardt | Secretary | maxleonhardt@enucs.org.uk</h3>
             <h3>Jacob Barrow | Treasurer | jacobbarrow@enucs.org.uk</h3>
 
             <h2>Minutes and Financials</h2>
