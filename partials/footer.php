@@ -13,4 +13,10 @@
             <a href="https://twitter.com/enucs" target="_blank"><i class="fab fa-twitter-square"></i></a>
         </div>
     </div>
+    <div class="chapter">
+        We are a BCS Student Chapter
+        <div>
+            <a href="https://bcs.com" target="_blank"><img src="/assets/images/bcs.png" alt="logo"></a>
+        </div>
+    </div>
 </div>
