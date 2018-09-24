@@ -23,7 +23,7 @@
 
             <h2>Minutes and Financials</h2>
             <p>We make key documents public to increase the society's accountability and transparency, as well as giving our members a better understanding of our goals and financial situation.</p>
-            <p>Our minutes are available <a href="#">here</a> and the 2018-19 finances are available <a href="#">here</a></p>
+            <p>Our minutes are available <a href="https://drive.google.com/open?id=1XI_YJ2hmiBRL9AigoJm10In2sb04jfxgy24p08dAM9E">here</a> and the 2018-19 finances are available <a href="https://docs.google.com/spreadsheets/d/1Il5IOfs_9NjmrzqIqaUcf1r7_4brkIPEg1EeyDy43xU/edit?usp=sharing">here</a></p>
 
         </div>
         <?php include 'partials/footer.php' ?>
