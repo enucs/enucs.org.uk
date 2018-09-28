@@ -16,7 +16,7 @@
     <div class="chapter">
         We are a BCS Student Chapter
         <div>
-            <a href="https://bcs.com" target="_blank"><img src="/assets/images/bcs.png" alt="logo"></a>
+            <a href="https://bcs.org" target="_blank"><img src="/assets/images/bcs.png" alt="logo"></a>
         </div>
     </div>
 </div>
