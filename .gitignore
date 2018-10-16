@@ -8,3 +8,6 @@ datasets/
 node_modules
 gulpfile.js
 package-lock.json
+
+#Mac Stuff
+.DS_Store
