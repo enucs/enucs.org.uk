@@ -9,7 +9,7 @@
             <div class="event">
                 <div class="date">17/10/18</div>
                 <div class="details">
-                    <h2>Web Dev and Assembly workshop</h2>
+                    <h2>Web Dev and Assembly Workshop</h2>
                     <span class="info">17:00 | Merchiston, D2</span>
                     <p>You can come learn about either HTML and CSS, or ARM assembly if you really don't like web dev. For those who already know some web dev we're also going to be covering the PHP framework Laravel.</p>
                 </div>
@@ -18,9 +18,9 @@
             <div class="event">
                 <div class="date">24/10/18</div>
                 <div class="details">
-                    <h2>Something Fun</h2>
-                    <span class="info">17:00 | ???</span>
-                    <p>Details TBC, but we're thinking of bowling.</p>
+                    <h2>Web Dev And Assembly Workshop Continued</h2>
+                    <span class="info">17:00 | Merchiston, D2</span>
+                    <p>Due to popular demand, we are continuing our workshop for another week!</p>
                 </div>
                 <div class="cf"></div>
             </div>
