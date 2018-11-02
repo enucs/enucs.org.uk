@@ -1,12 +1,13 @@
 <div id="nav" role="navigation">
     <ul id="desktop">
-        <li><a href="/" <?= $page == 'events' ? 'class="active"' : '' ?>>events</a></li>
-        <li><a href="/society" <?= $page == 'society' ? 'class="active"' : '' ?>>society</a></li>
         <li class="logo">
             <span class="logo dark">{<span class="enu">enu</span><span class="cs">cs</span>}</span>
         </li>
+        <li><a href="/" <?= $page == 'events' ? 'class="active"' : '' ?>>events</a></li>
+        <li><a href="/society" <?= $page == 'society' ? 'class="active"' : '' ?>>society</a></li>
         <li><a href="/sponsors" <?= $page == 'sponsors' ? 'class="active"' : '' ?>>sponsors</a></li>
         <li><a href="/join" <?= $page == 'join' ? 'class="active"' : '' ?>>join us</a></li>
+        <li><a href="https://shop.spreadshirt.co.uk/enucs1/">merch</a></li>
         <li id="hamburger" onclick="toggleNav()">
             <i class="fa fa-bars"></i>
         </li>
@@ -17,5 +18,6 @@
         <li><a href="/society" <?= $page == 'society' ? 'class="active"' : '' ?>>society</a></li>
         <li><a href="/sponsors" <?= $page == 'sponsors' ? 'class="active"' : '' ?>>sponsors</a></li>
         <li><a href="/join" <?= $page == 'join' ? 'class="active"' : '' ?>>join us</a></li>
+        <li><a href="https://shop.spreadshirt.co.uk/enucs1/">merch</a></li>
     </ul>
 </div>
