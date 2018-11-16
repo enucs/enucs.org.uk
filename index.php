@@ -7,11 +7,11 @@
         <?php include 'partials/nav.php' ?>
         <div id="content" role="main">
             <div class="event">
-                <div class="date">7/11/18</div>
+                <div class="date">21/11/18</div>
                 <div class="details">
-                    <h2>ENUCS Social - Laser Tag</h2>
-                    <span class="info">17:30 - 19:00 | Laser Station, Fountain Park</span>
-                    <p>Our first social event! Members and non-members can come and join us play laser tag at Fountain Park. <a href="https://www.eventbrite.co.uk/e/enucs-social-laser-tag-laser-station-fountain-park-tickets-52145035204">Click here to get a ticket</a></p>
+                    <h2>Blockchain - Create a Coin</h2>
+                    <span class="info">17:00 - 18:00 | Merchiston, D2</span>
+                    <p>Learn about blockchain and create a cryptocurrency with a group.</p>
                 </div>
                 <div class="cf"></div>
             </div>
